@@ -1,0 +1,22 @@
+{
+  "name": "pdf-multiplier",
+  "version": "0.0.1",
+  "description": "Multiplicador de PDF para N copias en un solo archivo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esturniolo/pdfMultiplier.git"
+  },
+  "author": "esturniolo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esturniolo/pdfMultiplier/issues"
+  },
+  "homepage": "https://github.com/esturniolo/pdfMultiplier#readme",
+  "dependencies": {
+    "pdfkit": "^0.11.0"
+  }
+}
